@@ -19,11 +19,11 @@ The number of hashtags, `#`, shouldn't exceed five per tweets. Hashtags are mean
 
 Hashtags will first be included in the tweet text when applicable. Example:
 
->`#ProTip: a #password strength indicator isn't going to stop users from choosing "123456" for a password. Tougher input criteria will.`
+> &#35;ProTip: a &#35;password strength indicator isn't going to stop users from choosing "123456" for a password. Tougher input criteria will.
 
 If hashtags can't be included with the tweet text they will be included after. Example:
 
->`MT for all devs! "How To Be A Great Developer" by @funkatron. https://the-pastry-box-project.net/ed-finkler/2014-january-6 via @thepastrybox #career #social #programming`
+> MT for all devs! "How To Be A Great Developer" by @funkatron. https://the-pastry-box-project.net/ed-finkler/2014-january-6 via @thepastrybox &#35;career &#35;social &#35;programming
 
 
 =
