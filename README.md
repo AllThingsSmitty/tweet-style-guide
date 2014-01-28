@@ -79,3 +79,8 @@ Examples:
 * !
 * ...(elipsis)
 * ?! (and multiple: ?!?!)
+* 
+
+=
+
+### Emoji
