@@ -35,6 +35,10 @@ If hashtags can't be included with the tweet text they will be included after. E
 
 ### Line breaks
 
+Line breaks will be used with discretion. They should be utilized for readability purposes (e.g., with numbered lists and conversations). Example:
+
+> [insert example]
+
 
 =
 
@@ -44,7 +48,7 @@ Curved single and double quotes (smart quotes) will be used except in instances 
 
 Example:
     
-`content { " "; }`
+> `content { " "; }`
 
 =
 
