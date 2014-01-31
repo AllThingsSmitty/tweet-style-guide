@@ -42,9 +42,7 @@ Line breaks will be used with discretion. They should be utilized for readabilit
 
 ### Quotes
 
-Curved single and double quotes (smart quotes) will be used except in instances where code may be included.
-
-Example:
+Curved single and double quotes (smart quotes) will be used except in instances where code may be included. Example:
     
 > `content { " "; }`
 
@@ -52,8 +50,18 @@ Example:
 
 ### Code
 
-Code can be included in tweet text but should be used sparingly and only to communicate relavent information. Code will be identified with backticks.
+Code can be included in tweet text but should be used sparingly and only to communicate relavent information. Code will be identified with backticks `` `...` ``. Example:
 
+
+> No more `` `grunt-contrib-sass` ``. From now on it's `` `grunt-sass` ``, FTW!
+
+> 
+
+Markup can be included without backticks. Example:
+
+> My point is more that &lt;div&gt; is misused for specificity, e.g., &lt;div id="nav"&gt; instead of &lt;nav&gt;.
+
+Consider using a combination of backticks with markup: `` `<font color="red">` ``
 
 =
 
