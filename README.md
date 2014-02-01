@@ -85,7 +85,7 @@ Examples:
 * !
 * ...(elipsis)
 * ?! (and multiple: ?!?!)
-* 
+ 
 
 =
 
