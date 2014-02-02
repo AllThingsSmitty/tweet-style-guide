@@ -8,6 +8,7 @@ This is a personal collection of styles related to how I compose tweets for Twit
 
 ### Abbreviations
 
+Editorial note: there may be some differences between using truncated words, e.g., "info".
 
 =
 
