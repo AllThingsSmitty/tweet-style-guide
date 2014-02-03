@@ -84,7 +84,7 @@ Examples:
 * .
 * ?
 * !
-* ...(elipsis)
+* Elipsis (...): An elipsis will be used as appropriate. Using the elipsis character instead of three (3) periods in a row is more efficient because it will save two characters overall in the tweet. 
 * ?! (and multiple: ?!?!)
  
 
