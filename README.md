@@ -1,7 +1,7 @@
 Personal style guide for tweeting
 =================
 
-This is a personal collection of styles related to how I compose tweets for Twitter. Think of this style guide in the same manner as the [_Associated Press Stylebook_](http://en.wikipedia.org/wiki/AP_Stylebook).
+This is a personal collection of styles related to how I compose tweets for Twitter. Think of this style guide in the same manner as the [_Associated Press Stylebook_](http://en.wikipedia.org/wiki/AP_Stylebook). [more context needed]
 
 
 =
