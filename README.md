@@ -1,7 +1,7 @@
 Personal style guide for tweeting
 =================
 
-Editorial note: this is under continuous development.
+Editorial note: this list is under continuous development.
 
 =
 
