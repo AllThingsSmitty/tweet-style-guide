@@ -95,3 +95,8 @@ Examples:
 =
 
 ### Emoji
+
+Example:
+
+* :-/
+* O_o
