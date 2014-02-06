@@ -78,6 +78,7 @@ Includes quoted retweets.
 
 ### Grammar
 
+(Might be hard to follow correct grammar)
 
 =
 
