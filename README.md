@@ -1,7 +1,7 @@
 Personal style guide for tweeting
 =================
 
-Editorial note: this list is under continuous development.
+Editor note: this list is under continuous development.
 
 =
 
@@ -14,7 +14,7 @@ This is a personal collection of styles related to how I compose tweets for Twit
 
 Abbreviations will be used appropriately and utilized for readability purposes.
 
-Editorial note: there may be some differences between using truncated words, e.g., "info".
+Editor note: there may be some differences between using truncated words, e.g., "info".
 
 =
 
