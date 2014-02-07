@@ -78,7 +78,9 @@ Retweets are tweets from other and follows that individual's personal style.
 
 #### Quoted Retweets
 
-The first priority of quoted retweets is to not edit the original tweet. However, hashtags can be inserted into the original tweet, if appropriate. All quoted retweets will include RT prior to the first quotation.
+The first priority of quoted retweets is to not edit the original tweet. However, hashtags can be inserted into the original tweet, if appropriate. All quoted retweets will include RT prior to the first quotation mark of the original tweet. Example:
+
+> Civic &#35;Trolling&#8482;. RT “<a href="https://twitter.com/davatron5000">@davatron5000</a>: So I trolled the White House and wrote some postmortem&#39;y thoughts on it all <a href="http://daverupert.com/2013/10/trolling-the-whitehouse/">http://daverupert.com/2013/10/trolli...</a>”
 
 
 =
