@@ -74,7 +74,12 @@ Consider using a combination of backticks with markup: `` `<font color="red">` `
 
 ### Retweets
 
-Includes quoted retweets.
+Retweets are tweets from other and follows that individual's personal style.
+
+#### Quoted Retweets
+
+The first priority of quoted retweets is to not edit the original tweet. However, hashtags can be inserted into the original tweet, if appropriate. All quoted retweets will include RT prior to the first quotation.
+
 
 =
 
