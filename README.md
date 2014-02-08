@@ -87,7 +87,7 @@ The first priority of quoted retweets is to not edit the original tweet. However
 
 ### Grammar
 
-(Might be hard to follow correct grammar)
+(Might be hard to follow correct grammar. Might remove.)
 
 =
 
