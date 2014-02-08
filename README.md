@@ -5,7 +5,7 @@ Editor note: this list is under continuous development.
 
 =
 
-This is a personal collection of styles related to how I compose tweets for Twitter. Think of this style guide in the same manner as the [_Associated Press Stylebook_](http://en.wikipedia.org/wiki/AP_Stylebook). [more context needed]
+This is a personal collection of styles related to how I compose tweets for Twitter. Think of this style guide in the same manner as the [_Associated Press Stylebook_](http://en.wikipedia.org/wiki/AP_Stylebook).
 
 
 =
