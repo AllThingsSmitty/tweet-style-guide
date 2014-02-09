@@ -14,6 +14,10 @@ This is a personal collection of styles related to how I compose tweets for Twit
 
 Abbreviations will be used appropriately and utilized for readability purposes, e.g., Mr., Mrs., Dr. In cases where truncated words may be used, e.g., "info", those will be determined based on readability and available characters.
 
+#### Acronyms
+
+Acronyms are a large part of tweets and often utilized to maximize readability, available character space, and tagging. Where appropriate, acronyms will continue to be utilized as the first preference, e.g., IE, UX, UI, etc.
+
 
 =
 
