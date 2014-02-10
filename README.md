@@ -16,7 +16,7 @@ Abbreviations will be used appropriately and utilized for readability purposes, 
 
 #### Acronyms
 
-Acronyms are a large part of tweets and often utilized to maximize readability, available character space, and tagging. Where appropriate, acronyms will continue to be utilized as the first preference, e.g., IE, UX, UI, etc.
+Acronyms are a large part of tweets and often utilized to maximize readability, available character space, and tagging. Where appropriate, acronyms will continue to be utilized as the first preference, e.g., UX, UI, IE, etc.
 
 
 =
@@ -104,6 +104,11 @@ Examples:
 * Elipsis (...): An elipsis will be used as appropriate. Using the elipsis character instead of three (3) periods in a row is more efficient because it will save two characters overall in the tweet. 
 * ?! (and multiple: ?!?!)
  
+
+=
+
+### Special Characters
+
 
 =
 
