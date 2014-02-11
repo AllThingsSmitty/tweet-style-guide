@@ -12,7 +12,7 @@ This is a personal collection of styles related to how I compose tweets for Twit
 
 ### Abbreviations
 
-Abbreviations will be used appropriately and utilized for readability purposes, e.g., Mr., Mrs., Dr. In cases where truncated words may be used, e.g., "info", those will be determined based on readability and available characters.
+Abbreviations will be used as appropriate for readability purposes, e.g., Mr., Mrs., Dr. In cases where truncated words may be used, e.g., "info", those will be determined based on style and available characters.
 
 #### Acronyms
 
