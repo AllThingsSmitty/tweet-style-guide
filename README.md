@@ -1,9 +1,7 @@
-Personal style guide for tweeting
-=================
+# Personal style guide for tweeting
 
 **Editor note:** this list is under continuous development.
 
-=
 
 This is a personal collection of styles related to how I compose tweets for [_Twitter_] (http://twitter.com). Think of this style guide in the same manner as the [_Associated Press Stylebook_](http://en.wikipedia.org/wiki/AP_Stylebook).
 
@@ -15,7 +13,11 @@ This is a personal collection of styles related to how I compose tweets for [_Tw
 3. [Spacing](#spacing)
 4. [Line Breaks](#line-breaks)
 5. [Quotes](#quotes)
-
+6. [Retweets](#retweets)
+7. [Grammar](#grammar)
+8. [Punctuation](#punctuation)
+9. [Special Characters](#special-characters)
+10. [Emoji](#emoji)
 
 
 ## Abbreviations
