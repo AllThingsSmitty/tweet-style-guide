@@ -51,7 +51,7 @@ If hashtags can't be included with the tweet text they will be included after. E
 
 Line breaks will be used with discretion. They should be utilized for readability purposes (e.g., with numbered lists and conversations). Example:
 
-> [insert example]
+> Pre-deployment ritual:<br><br>1) beer<br>2) The Clash<br>3) 50 push-ups<br>4) Daft Punk<br>5) fireworks<br><br>Alright, I’m ready to handle code now.
 
 
 ## Quotes
