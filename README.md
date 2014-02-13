@@ -108,5 +108,6 @@ The first priority of quoted retweets is to not edit the original tweet. However
 
 **Example:**
 
+* <3
 * :-/
 * O_o
