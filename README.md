@@ -102,6 +102,14 @@ The first priority of quoted retweets is to not edit the original tweet. However
 
 ## Special Characters
 
+### Twitter Special Characters
+
+Twitter's primary special characters are the commercial at (@) and hashtag (#) symbols. Both will be treated as appropriate except in instances where they don't represent Twitter's expectations of the symbols.
+
+In instances where the commercial at is being used for purposes other than to reference a Twitter name (e.g., in CSS @supports, etc.) a zero-width space with be used after the commerical at to prevent Twitter from recognizing it as a user (i.e.g, @supports instead of [@supports](http://twitter.com/supports).
+
+In instances where the hashtag is being used for purposes other than to tag a word in a tweet (e.g., #HTML5, etc.)
+
 
 ## Emoji
 
