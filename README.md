@@ -92,11 +92,10 @@ The first priority of quoted retweets is to not edit the original tweet. However
 
 ## Punctuation
 
-**Examples:**
-    
 * .
 * ?
 * !
+* Colon (:): Words following colons will be in lowercase unless otherwise indicated, e.g., title.
 * Elipsis (...): An elipsis will be used as appropriate. Using the elipsis character instead of three (3) periods in a row is more efficient because it will save two characters overall in the tweet. 
 * ?! (and multiple: ?!?!)
 
