@@ -33,7 +33,7 @@ Acronyms will be utilized to maximize readability, available character space, an
 
 ## Hashtags
 
-The number of hashtags, `#`, shouldn't exceed five per tweets. Hashtags are meant to include tags that are relevant to the tweet and will be used with discretion.
+The number of hashtags (#) shouldn't exceed five per tweets. Hashtags are meant to include tags that are relevant to the tweet and will be used with discretion.
 
 Hashtags will first be included in the tweet text when applicable. Example:
 
@@ -58,20 +58,20 @@ Line breaks will be used with discretion. They should be utilized for readabilit
 
 Curved single and double quotes (smart quotes) will be used except in instances where code may be included. Example:
     
-> `content { " "; }`
+> &#x60;content { " "; }&#x60;
 
 
 ## Code
 
-Code can be included in tweet text but should be used sparingly and only to communicate relavent information. Code will be identified with backticks `` `...` ``. Example:
+Code can be included in tweet text but should be used sparingly and only to communicate relavent information. Code will be encapsulated in backticks (&#x60;). Example:
 
-> No more `` `grunt-contrib-sass` ``. From now on it's `` `grunt-sass` ``, FTW!
+> No more &#x60;grunt-contrib-sass&#x60;. From now on it's &#x60;grunt-sass&#x60;, FTW!
 
 Markup can be included without backticks. Example:
 
 > My point is more that &lt;div&gt; is misused for specificity, e.g., &lt;div id="nav"&gt; instead of &lt;nav&gt;.
 
-Consider using a combination of backticks with markup: `` `<font color="red">` ``
+Consider using a combination of backticks with markup: &#x60;<font color="red">&#x60;
 
 
 ## Retweets
