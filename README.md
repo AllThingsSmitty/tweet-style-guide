@@ -45,6 +45,7 @@ If hashtags can't be included with the tweet text they will be included after. E
 
 ## Spacing
 
+Appropriate spacing will be given in all tweets. Spacing will not be ignored for the purposes of saving character space.
 
 ## Line Breaks
 
