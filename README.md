@@ -57,6 +57,7 @@ Line breaks will be used with discretion. They should be utilized for readabilit
 Curved single and double quotes (smart quotes) will be used except in instances where code may be included. Example:
     
 > &#x60;content { " "; }&#x60;
+> So <html ng-app="awesomesauce"> and suddenly I’m wearing a cape
 
 
 ## Code
