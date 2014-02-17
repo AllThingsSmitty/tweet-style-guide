@@ -21,9 +21,9 @@ This is a personal collection of styles related to how I compose tweets on Twitt
 
 ## Abbreviations
 
-Abbreviations will be used as appropriate for readability purposes, e.g., Mr., Mrs., Dr. In cases where truncated words may be used, e.g., "info", those will be determined based on style and available character space.
+Abbreviations will be used as appropriate for readability purposes, e.g., Mr., Mrs., Dr. In cases where truncated words may be used, e.g., "info", et al., those will be determined based on style and available character space.
 
-**Note**: Avoid use of abbreviations that take away from the readibility of the tweet, e.g., "Yr." instead of "year".
+**Note**: Avoid the use of abbreviations that take away from the readibility of the tweet, e.g., "yr." instead of "year".
 
 ### Acronyms
 
@@ -32,9 +32,7 @@ Acronyms will be utilized to maximize readability, available character space, an
 
 ## Hashtags
 
-The number of hashtags (#) shouldn't exceed five per tweets. Hashtags are meant to include tags that are relevant to the tweet and will be used with discretion.
-
-Hashtags will first be included in the tweet text when applicable. Example:
+The number of hashtags (#) shouldn't exceed five per tweets. Hashtags are meant to include tags that are relevant to the tweet's subject and will be used with discretion and included in the tweet text when applicable. Example:
 
 > &#35;ProTip: a &#35;password strength indicator isn't going to stop users from choosing "123456" for a password. Tougher input criteria will.
 
