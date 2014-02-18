@@ -2,7 +2,7 @@
 
 **Editor note:** this list is under continuous development.
 
-This is a personal collection of styles related to how I compose tweets on Twitter. Think of this style guide in the same manner as the [_Associated Press Stylebook_](http://en.wikipedia.org/wiki/AP_Stylebook).
+This is a personal collection of styles related to how I compose tweets on Twitter. Think of this style guide in the same manner as the [*Associated Press Stylebook*](http://en.wikipedia.org/wiki/AP_Stylebook).
 
 
 ## Table of contents
@@ -82,11 +82,6 @@ Retweets are tweets from other and follows that individual's personal style.
 The first priority of quoted retweets is to not edit the original tweet. However, hashtags can be inserted into the original tweet, if appropriate. All quoted retweets will include RT prior to the first quotation mark of the original tweet. Example:
 
 > Civic &#35;Trolling&#8482;. RT “<a href="https://twitter.com/davatron5000">@davatron5000</a>: So I trolled the White House and wrote some postmortem&#39;y thoughts on it all <a href="http://daverupert.com/2013/10/trolling-the-whitehouse/">http://daverupert.com/2013/10/trolli...</a>”
-
-
-## Grammar
-
-(Might be hard to follow correct grammar. Might remove.)
 
 
 ## Punctuation
