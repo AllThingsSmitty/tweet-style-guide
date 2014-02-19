@@ -56,8 +56,7 @@ Line breaks will be used with discretion. They should be utilized for readabilit
 
 Curved single and double quotes (smart quotes) will be used except in instances where code may be included. Example:
     
-> &#x60;content { " "; }&#x60;
-> So <html ng-app="awesomesauce"> and suddenly I’m wearing a cape
+> So &lt;html ng-app="awesomesauce"&gt; and suddenly I’m wearing a cape
 
 
 ## Code
@@ -86,9 +85,9 @@ The first priority of quoted retweets is to not edit the original tweet. However
 
 ## Punctuation
 
-* .
-* ?
-* !
+All sentences will contain proper punctuation except numbered lines. Numbered lines will be given a space above and below the sentence. Numbers will be listed as: 1., 2., 3., etc.
+
+### Noteable Rules
 * Colon (:): Words following colons will be in lowercase unless otherwise indicated, e.g., title.
 * Elipsis (...): An elipsis will be used as appropriate. Using the elipsis character instead of three (3) periods in a row is more efficient because it will save two characters overall in the tweet. 
 * ?! (and multiple: ?!?!)
