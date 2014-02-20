@@ -69,7 +69,7 @@ Markup can be included without backticks. Example:
 
 > My point is more that &lt;div&gt; is misused for specificity, e.g., &lt;div id="nav"&gt; instead of &lt;nav&gt;.
 
-Consider using a combination of backticks with markup: &#x60;<font color="red">&#x60;
+Consider using a combination of backticks with markup: &#x60;&lt;font color="red"&gt;&#x60;
 
 
 ## Retweets
