@@ -106,7 +106,7 @@ In instances where the hashtag is being used for purposes other than to tag a wo
 
 ## Emoji
 
-**Example:**
+Emoji will be used sparingly. The text version of of emoji will be utilized over graphical emoji that may be available on certain devices. This is to reduce the possibility that the reader can't see the emoji. Example:
 
 * <3
 * :-/
