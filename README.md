@@ -90,7 +90,7 @@ All sentences will contain proper punctuation except numbered lines. Numbered li
 ### Noteable Rules
 * Colon (:): Words following colons will be in lowercase unless otherwise indicated, e.g., title.
 * Elipsis (...): An elipsis will be used as appropriate. Using the elipsis character instead of three (3) periods in a row is more efficient because it will save two characters overall in the tweet. 
-* ?! (and multiple: ?!?!)
+* ?! (and multiple: ?!?!): When the question mark and exclamation point are combined the question mark will always come first.
 
 
 ## Special Characters
