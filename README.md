@@ -13,10 +13,9 @@ This is a personal collection of styles related to how I compose tweets on Twitt
 4. [Line Breaks](#line-breaks)
 5. [Quotes](#quotes)
 6. [Retweets](#retweets)
-7. [Grammar](#grammar)
-8. [Punctuation](#punctuation)
-9. [Special Characters](#special-characters)
-10. [Emoji](#emoji)
+7. [Punctuation](#punctuation)
+8. [Special Characters](#special-characters)
+9. [Emoji](#emoji)
 
 
 ## Abbreviations
