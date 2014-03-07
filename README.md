@@ -26,7 +26,7 @@ Abbreviations will be used as appropriate for readability purposes, e.g., Mr., M
 
 ### Acronyms
 
-Acronyms will be utilized to maximize readability, available character space, and tagging. Where appropriate, acronyms will continue to be utilized as the first preference, e.g., UX, UI, IE, etc.
+Acronyms will be utilized to maximize readability, available character space, and tagging. Where appropriate, acronyms will continue to be utilized as the first preference, e.g., UX, UI, IE, etc. Tweet-specific acronyms such as RT (retweet), HT (hat tip), et al. will also be used.
 
 
 ## Hashtags
