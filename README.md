@@ -105,8 +105,10 @@ In instances where the hashtag is being used for purposes other than to tag a wo
 
 ## Emoji
 
-Emoji will be used sparingly. The text version of of emoji will be utilized over graphical emoji that may be available on certain devices. This is to reduce the possibility that the reader can't see the emoji. Example:
+Emoji is now fully supported by Twitter but should be used sparingly. The graphical version of emoji will be used first, if available, to save available character space. Example:
 
-* <3
-* :-/
-* O_o
+* :heart: instead of <3
+* :frowning: instead of :-/
+* :confused: instead of O_o
+
+If the graphical version of emoji doesn't exist the text version will be used instead.
