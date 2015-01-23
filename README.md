@@ -4,7 +4,6 @@
 
 This is a personal collection of styles related to how I compose tweets on Twitter. Think of this style guide in the same manner as the [*Associated Press Stylebook*](http://en.wikipedia.org/wiki/AP_Stylebook).
 
-
 ## Table of contents
 
 1. [Abbreviations](#abbreviations)
@@ -17,12 +16,9 @@ This is a personal collection of styles related to how I compose tweets on Twitt
 8. [Special Characters](#special-characters)
 9. [Emoji](#emoji)
 
-
 ## Abbreviations
 
-Abbreviations will be used as appropriate for readability purposes, e.g., Mr., Mrs., Dr. In cases where truncated words may be used, e.g., "info", et al., those will be determined based on style and available character space.
-
-**Note**: Avoid the use of abbreviations that take away from the readibility of the tweet, e.g., "yr." instead of "year".
+Abbreviations will be used as appropriate for readability purposes, e.g., Mr., Mrs., Dr. In cases where truncated words may be used, e.g., "info", et al., those will be determined based on style and available character space. Avoid the use of abbreviations that take away from the readibility of the tweet, e.g., "yr." instead of "year". **Non-standard abbreviations**, e.g., "p" as in "pretty", "rn" as in "right now", should be used sparingly and with discretion.
 
 ### Acronyms
 
@@ -98,17 +94,17 @@ All sentences will contain proper punctuation except numbered lines. Numbered li
 
 Twitter's primary special characters are the commercial at (@) and hashtag (#) symbols. Both will be treated as appropriate except in instances where they don't represent Twitter's expectations of the symbols.
 
-In instances where the commercial at is being used for purposes other than to reference a Twitter name (e.g., in CSS @supports, etc.) a zero-width space with be used after the commerical at to prevent Twitter from recognizing it as a user (i.e., @supports instead of [@supports](http://twitter.com/supports)).
+In instances where the commercial at is being used for purposes other than to reference a Twitter name (e.g., in CSS @supports, etc.) a [zero-width space](http://dontatmention.it/) with be used after the commerical at to prevent Twitter from recognizing it as an account (i.e., @supports instead of [@supports](http://twitter.com/supports)).
 
 In instances where the hashtag is being used for purposes other than to tag a word in a tweet (e.g., #1 team, etc.) the number abbreviations No. will be used.
 
 
 ## Emoji
 
-Emoji is now fully supported by Twitter but should be used sparingly. The graphical version of emoji will be used first, if available, to save available character space. Example:
+Emoji is now fully supported by Twitter. The graphical version of emoji will be used first, if available, to save available character space. Example:
 
 * :heart: instead of <3
 * :frowning: instead of :-/
 * :confused: instead of O_o
 
-If the graphical version of emoji doesn't exist the text version will be used instead.
+If the graphical version of emoji doesn't exist the text version will be used instead, e.g., ¯\\\_(ツ)_/¯.
