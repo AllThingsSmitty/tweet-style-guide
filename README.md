@@ -18,7 +18,7 @@ This is a personal collection of styles related to how I compose tweets on Twitt
 
 ## Abbreviations
 
-Abbreviations will be used as appropriate for readability purposes, e.g., Mr., Mrs., Dr., etc. Avoid the use of abbreviations that take away from the readibility of the tweet, e.g., yr. instead of year. In cases where truncated words may be used, e.g., info, et al., those will be determined based on style and available character space. **Non-standard abbreviations**, e.g., "p" as in "pretty", "rn" as in "right now", et al. should be used sparingly and with discretion.
+Abbreviations will be used as appropriate for readability purposes, e.g., Mr., Mrs., Dr., etc. Avoid the use of abbreviations that take away from the readibility of the tweet, e.g., yr. instead of year. In cases where truncated words may be used, e.g., info, et al., those will be determined based on style and available character space. **Non-standard abbreviations**, e.g., "p" as in "pretty", "rn" as in "right now", "tbh" as in "to be honest", et al. should be used sparingly and with discretion.
 
 ### Acronyms
 
@@ -57,7 +57,7 @@ Curved single and double quotes (smart quotes) will be used except in instances 
 
 ## Code
 
-Code such as HTMl markup, CSS, and JavaScript snippets can be included in a tweet  but should be used sparingly and only to communicate relavent information. Code will be encapsulated in backticks (&#x60;). Example:
+Code such as HTML markup, CSS, and JavaScript snippets can be included in a tweet but should be used sparingly and only to communicate relavent information. Code will be encapsulated in backticks (&#x60;). Example:
 
 > No more &#x60;grunt-contrib-sass&#x60;. From now on it's &#x60;grunt-sass&#x60;, FTW!
 
