@@ -45,14 +45,20 @@ Appropriate spacing will be given in all tweets. Spacing will not be ignored for
 
 Line breaks will be used with discretion. These should be utilized for readability purposes. Example:
 
+![Tweet image 1](https://www.dropbox.com/s/p87pgm6ryl1e839/img_1.png?dl=0)
+
 > Pre-deployment ritual:<br><br>1) beer<br>2) The Clash<br>3) 50 push-ups<br>4) Daft Punk<br>5) fireworks<br><br>Alright, I’m ready to handle code now.
 
 
 ## Quotes
 
 Curved single and double quotes (smart quotes) will be used except in instances where straight quotes are required:
-    
+
+![Tweet image 2(https://www.dropbox.com/s/dxhk4efc334jiwn/img_2.png?dl=0)
+
 > So &lt;html ng-app="awesomesauce"&gt; and suddenly I’m wearing a cape.
+
+
 
 
 ## Code
