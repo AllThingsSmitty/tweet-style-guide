@@ -29,11 +29,11 @@ Acronyms will be utilized to maximize readability, available character space, an
 
 Limit the number of hashtags (#) to no more than five per tweet. Hashtags are meant to include tags that are relevant to the tweet's subject matter and will be used with discretion and included in the tweet text when applicable. Example:
 
-> &#35;ProTip: a &#35;password strength indicator isn't going to stop users from choosing "123456" for a password. Tougher input criteria will.
+![Tweet image 1](/img/img_7.png)
 
 If hashtags can't be included within the text of the tweet they will be added after. Example:
 
-> MT for all devs! "How To Be A Great Developer" by @funkatron. https://the-pastry-box-project.net/ed-finkler/2014-january-6 via @thepastrybox &#35;career &#35;social &#35;programming
+![Tweet image 2](/img/img_5.png)
 
 
 ## Spacing
@@ -45,27 +45,25 @@ Appropriate spacing will be given in all tweets. Spacing will not be ignored for
 
 Line breaks will be used with discretion. These should be utilized for readability purposes. Example:
 
-![Tweet image 1](/img/img_1.png)
-<!-- Pre-deployment ritual:<br><br>1) beer<br>2) The Clash<br>3) 50 push-ups<br>4) Daft Punk<br>5) fireworks<br><br>Alright, I’m ready to handle code now.-->
+![Tweet image 3](/img/img_4.png)
 
 
 ## Quotes
 
 Curved single and double quotes (smart quotes) will be used except in instances where straight quotes are required:
 
-![Tweet image 2](/img/img_2.png)
-<!-- So &lt;html ng-app="awesomesauce"&gt; and suddenly I’m wearing a cape. -->
+![Tweet image 4](/img/img_2.png)
 
 
 ## Code
 
 Code such as HTML markup, CSS, and JavaScript snippets can be included in a tweet but should be used sparingly and only to communicate relavent information. Code will be encapsulated in backticks (&#x60;). Example:
 
-> No more &#x60;grunt-contrib-sass&#x60;. From now on it's &#x60;grunt-sass&#x60;, FTW!
+![Tweet image 5](/img/img_9.png)
 
 Markup can be included without backticks. Example:
 
-> Welp, &lt;p class="f4 f2-m f1-l"&gt; might just as well be &lt;p class="¯\\\_(ツ)_/¯"&gt; cuz I seriously have no idea WTF this #CSS is supposed to do.
+![Tweet image 6](/img/img_1.png)
 
 Consider using a combination of backticks with markup: &#x60;&lt;font color="red"&gt;&#x60;
 
@@ -78,7 +76,7 @@ Retweets are tweets from other and follows that individual's personal style.
 
 The first priority of quoted retweets is to not edit the original tweet. However, hashtags can be inserted into the original tweet, if appropriate. All quoted retweets will include RT prior to the first quotation mark of the original tweet. Example:
 
-> Civic &#35;Trolling&#8482;. RT “<a href="https://twitter.com/davatron5000">@davatron5000</a>: So I trolled the White House and wrote some postmortem&#39;y thoughts on it all <a href="http://daverupert.com/2013/10/trolling-the-whitehouse/">http://daverupert.com/2013/10/trolli...</a>”
+![Tweet image 7](/img/img_3.png)
 
 
 ## Punctuation
