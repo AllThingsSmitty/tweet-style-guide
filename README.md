@@ -29,11 +29,11 @@ Acronyms will be utilized to maximize readability, available character space, an
 
 Limit the number of hashtags (#) to no more than five per tweet. Hashtags are meant to include tags that are relevant to the tweet's subject matter and will be used with discretion and included in the tweet text when applicable. Example:
 
-![Tweet image 1](/img/img_7.png)
+[![Tweet image 1](/img/img_7.png)](https://twitter.com/AllThingsSmitty/status/551045871291629568)
 
 If hashtags can't be included within the text of the tweet they will be added after. Example:
 
-![Tweet image 2](/img/img_5.png)
+[![Tweet image 2](/img/img_5.png)](https://twitter.com/AllThingsSmitty/status/421667954699558912)
 
 
 ## Spacing
@@ -45,25 +45,25 @@ Appropriate spacing will be given in all tweets. Spacing will not be ignored for
 
 Line breaks will be used with discretion. These should be utilized for readability purposes. Example:
 
-![Tweet image 3](/img/img_4.png)
+[![Tweet image 3](/img/img_4.png)](https://twitter.com/AllThingsSmitty/status/414178417492643840)
 
 
 ## Quotes
 
 Curved single and double quotes (smart quotes) will be used except in instances where straight quotes are required:
 
-![Tweet image 4](/img/img_2.png)
+[![Tweet image 4](/img/img_2.png)](https://twitter.com/AllThingsSmitty/status/464037189823655936)
 
 
 ## Code
 
 Code such as HTML markup, CSS, and JavaScript snippets can be included in a tweet but should be used sparingly and only to communicate relavent information. Code will be encapsulated in backticks (&#x60;). Example:
 
-![Tweet image 5](/img/img_9.png)
+[![Tweet image 5](/img/img_9.png)](https://twitter.com/AllThingsSmitty/status/419851412705529856)
 
 Markup can be included without backticks. Example:
 
-![Tweet image 6](/img/img_1.png)
+[![Tweet image 6](/img/img_1.png)](https://twitter.com/AllThingsSmitty/status/518397440018636800)
 
 Consider using a combination of backticks with markup: &#x60;&lt;font color="red"&gt;&#x60;
 
@@ -76,7 +76,7 @@ Retweets are tweets from other and follows that individual's personal style.
 
 The first priority of quoted retweets is to not edit the original tweet. However, hashtags can be inserted into the original tweet, if appropriate. All quoted retweets will include RT prior to the first quotation mark of the original tweet. Example:
 
-![Tweet image 7](/img/img_3.png)
+[![Tweet image 7](/img/img_3.png)](https://twitter.com/AllThingsSmitty/status/445933630972780544)
 
 
 ## Punctuation
