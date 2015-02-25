@@ -2,7 +2,7 @@
 
 **Editor note:** this list is under continuous development.
 
-This is a personal collection of styles related to how I compose tweets on Twitter. Think of this style guide in the same manner as the [*Associated Press Stylebook*](http://en.wikipedia.org/wiki/AP_Stylebook).
+This is a personal collection of styles related to how I compose tweets for Twitter. Think of this style guide in the same manner as the [*Associated Press Stylebook*](http://en.wikipedia.org/wiki/AP_Stylebook).
 
 ## Table of contents
 
@@ -95,7 +95,7 @@ All sentences will contain proper punctuation except numbered lines. Numbered li
 
 Twitter's primary special characters are the commercial at (@) and hashtag (#) symbols. Both will be treated as appropriate except in instances where they don't represent Twitter's expectations of the symbols.
 
-In instances where the commercial at (@) is being used for purposes other than to reference a Twitter name (e.g., in CSS @supports, etc.) a [zero-width space](http://dontatmention.it/) with be used after the commerical at to prevent Twitter from recognizing it as an account (i.e., @supports instead of [@supports](http://twitter.com/supports)).
+In instances where the commercial at (@) is being used for purposes other than to reference a Twitter name (e.g., in CSS @supports, etc.) a [zero-width space](http://dontatmention.it/) witll be used after the commerical at to prevent Twitter from treating it as a user account (i.e., @supports instead of [@supports](http://twitter.com/supports)).
 
 In instances where the hashtag is being used for purposes other than to tag a word in a tweet (e.g., #1 team, etc.) the number abbreviation (No.) will be used.
 
