@@ -65,7 +65,7 @@ Markup can be included without backticks. Example:
 
 [![Tweet image 6](/img/img_1.png)](https://twitter.com/AllThingsSmitty/status/518397440018636800)
 
-Consider using a combination of backticks with markup: &#x60;&lt;font color="red"&gt;&#x60;
+Consider using a combination of backticks with markup: &#x60;&lt;div class="modal"&gt;&#x60;.
 
 
 ## Retweets
