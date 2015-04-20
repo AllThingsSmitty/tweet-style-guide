@@ -108,4 +108,8 @@ Emoji is now fully supported by Twitter. The graphical version of emoji will be 
 * :frowning: instead of :-/
 * :confused: instead of O_o
 
-If the graphical version of emoji doesn't exist the text version will be used instead, e.g., ¯\\\_(ツ)_/¯.
+If the graphical version of emoji doesn't exist the text version will be used instead. Example:
+
+* (╯°□°）╯︵ ┻━┻
+* ᕙ(⇀‸↼‶)ᕗ 
+* ¯\\\_(ツ)_/¯
